@@ -1,2 +1,2 @@
 # hello-world
-simple repository
+Hai Human buddy
